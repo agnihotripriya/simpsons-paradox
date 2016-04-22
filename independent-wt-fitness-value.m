@@ -1,3 +1,6 @@
+% name of packages to load
+pkg load statistics
+
 p2=[];
 d=[];
 e=[];
